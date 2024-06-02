@@ -3,9 +3,9 @@
 
 <br />
 
-- 👀 &nbsp; I’m interested in: becoming a software engineer and am passionate about learning new technologies and improving my coding skills.
+- 👀 &nbsp; I’m a software engineer . <br/>
 
-- 🌱 &nbsp; I’ve learnt about: Python and JavaScript, and I'm currently exploring web development and data science.
+- 🌱 &nbsp; I’m skilled in Python and JavaScript. <br/>
 
 - 👯 &nbsp; I’m looking to collaborate on: beginner-friendly open-source projects and any initiatives that can help me grow my skills in software development.
 
