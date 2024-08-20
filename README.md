@@ -60,9 +60,7 @@
 
 <br />
 
-<h3 align="left">🏆 GitHub Profile Trophy:</h3>
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toluwanimicode&theme=flat&no-frame=true&column=7" alt="toluwanimicode" /></a> </p>
+
 
 
 
