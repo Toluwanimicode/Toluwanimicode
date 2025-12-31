@@ -7,7 +7,7 @@
 
 - 🌱 &nbsp; I’m skilled in Python and JavaScript. <br/>
 
-- 👯 &nbsp; I’m looking to collaborate on: beginner-friendly open-source projects and any initiatives that can help me grow my skills in software development.
+- 👯 &nbsp; I’m looking to collaborate on: open-source projects and any initiatives that can help me grow my skills in software development.
 
 - 👨‍💻 &nbsp; All of my projects are available at: [https://github.com/Toluwanimicode](https://github.com/Toluwanimicode).
 
