@@ -9,8 +9,6 @@
 
 - 👯 &nbsp; I’m looking to collaborate on: open-source projects and any initiatives that can help me grow my skills in software development.
 
-- 👨‍💻 &nbsp; All of my projects are available at: [https://github.com/Toluwanimicode](https://github.com/Toluwanimicode).
-
 - 📫 &nbsp; How to reach me: **tolugodsproperty@gmail.com**.
 
 - 😄 &nbsp; Pronouns: He/Him.
@@ -56,7 +54,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toluwanimicode&show_icons=true&locale=en&theme=github_dark" alt="toluwanimicode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toluwanimicode&theme=github_dark" alt="toluwanimicode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=neon-dark" alt="GitHub Streak" /></p>
 
 <br />
 
