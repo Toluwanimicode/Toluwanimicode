@@ -52,10 +52,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=tokyonight"
-      alt="GitHub Streak"
-    />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=github-dark" alt="GitHub Streak" />
   </a>
 </p>
 
