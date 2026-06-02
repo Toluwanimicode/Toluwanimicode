@@ -50,7 +50,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toluwanimicode&theme=github_dark" alt="toluwanimicode" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=kanagawa-paper" alt="GitHub Streak" /></p>
 
 <br />
 
