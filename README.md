@@ -51,9 +51,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=github-dark" alt="GitHub Streak" />
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </p>
 
 <br />
