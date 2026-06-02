@@ -50,7 +50,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toluwanimicode&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="toluwanimicode" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Toluwanimicode&theme=github-dark-blue" alt="GitHub Streak" /></a>
 
 
 <br />
