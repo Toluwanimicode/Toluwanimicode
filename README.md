@@ -5,7 +5,7 @@
 
 - 👀 &nbsp; I’m a software engineer . <br/>
 
-- 🌱 &nbsp; I’m skilled in Python, Java , C++, C  and JavaScript. <br/>
+- 🌱 &nbsp; I’m skilled in Java , C++, C  and JavaScript. <br/>
 
 - 👯 &nbsp; I’m looking to collaborate on: open-source projects and any initiatives that can help me grow my skills in software development.
 
